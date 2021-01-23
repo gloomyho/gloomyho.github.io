@@ -50160,7 +50160,7 @@ m=$.KQ=b.a2(m).f.a.a/1920
 $.a21=($.a4v+m)/2
 m=60*m
 s=t.fQ
-r=T.cg(new T.Dm(C.p,C.xv,C.o1,C.cM,n,C.pc,n,H.a([new T.fo(1,C.cO,U.zc("images/logos/logo_tabiri.png"),n),new T.fo(1,C.cO,U.zc("images/logos/logo_hochschule-trier.png"),n),new T.fo(1,C.cO,U.zc("images/logos/logo_deutsche-krebshilfe.png"),n),new T.fo(1,C.cO,U.zc("images/logos/logo_uni-luebeck.png"),n)],s),n),86)
+r=T.cg(new T.Dm(C.p,C.xv,C.o1,C.cM,n,C.pc,n,H.a([new T.fo(1,C.cO,U.zc("assets/images/logos/logo_tabiri.png"),n),new T.fo(1,C.cO,U.zc("assets/images/logos/logo_hochschule-trier.png"),n),new T.fo(1,C.cO,U.zc("assets/images/logos/logo_deutsche-krebshilfe.png"),n),new T.fo(1,C.cO,U.zc("assets/images/logos/logo_uni-luebeck.png"),n)],s),n),86)
 q=T.cg(T.eR(n,n,n),10)
 p=$.a4v
 p=T.cg(new T.fA(new V.b2(m,m,m,0),T.on(H.a([r,q,T.cg(M.ek(n,n,n,n,new S.dq(C.t,n,n,n,H.a([new O.fj(0,C.NM,new P.r(0,6*p),10*p)],t.ec),n,C.ah),n,n,n,n),4)],s),C.cM),n),18)
@@ -50174,7 +50174,7 @@ if(q.a.c){s=T.cg(T.eR(p,p,p),99)
 r=$.KQ
 r=D.jY(p,T.on(H.a([s,new T.fo(0,C.cO,M.ek(p,T.Mm(p,p,new Y.Ev(new P.v(o),C.bS,10,p),new P.U(60*r,20)),p,p,p,p,p,p,p),p),T.cg(T.eR(p,p,p),1),new T.fo(0,C.cO,M.ek(p,p,p,p,new S.dq(new P.v(o),p,p,K.ll(27),p,p,C.ah),10,p,p,564*r),p)],t.fQ),C.cM),C.aR,!1,p,p,p,p,p,p,p,p,p,p,new Y.YR(q),p,p,p,p,p,p)
 s=r}else{s=t.aM
-s=q.Rx("information",new P.v(o),U.zc("images/home/information.png"),L.ke(a,C.fg,s).gDk(),L.ke(a,C.fg,s).gDj(),L.ke(a,C.fg,s).gDi(),new Y.YS(a),L.ke(a,C.fg,s).gDh(),new Y.YT(q))}return G.a59(s,n,new Y.YU())},
+s=q.Rx("information",new P.v(o),U.zc("assets/images/home/information.png"),L.ke(a,C.fg,s).gDk(),L.ke(a,C.fg,s).gDj(),L.ke(a,C.fg,s).gDi(),new Y.YS(a),L.ke(a,C.fg,s).gDh(),new Y.YT(q))}return G.a59(s,n,new Y.YU())},
 Rx:function(a,b,c,d,e,f,a0,a1,a2){var s,r,q,p,o=null,n="Open Sans",m=$.KQ,l=K.ll(27),k=T.cg(T.eR(o,o,o),5),j=T.cg(c,20),i=T.cg(T.eR(o,o,o),5),h=$.ab8(),g=$.a21
 g=T.cg(M.a5d(d,h,1,A.hQ(o,o,C.m,o,o,o,o,o,n,o,o,34,o,C.jA,o,o,!0,1.02,o,o,o,o,o),g),20)
 h=T.cg(T.eR(o,o,o),5)
