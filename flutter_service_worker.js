@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6bf572b4de84f451a759a3b9150c815d",
+  "assets/AssetManifest.json": "8ed0a759090a56eb02d4496fd7c9c9cd",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
@@ -14,7 +14,10 @@ const RESOURCES = {
 "assets/assets/images/hautprobe_kurz.png": "7006f1abfde6eedc13ff8d80df54691e",
 "assets/assets/images/header/exit.png": "863209a5e029feeb88d9e46afb21bce0",
 "assets/assets/images/header/menu.png": "b46f58f1d453522b04b0cae964cdaced",
-"assets/assets/images/home/avatar.png": "9afae2c0c418d49076ddab3a02277bfc",
+"assets/assets/images/home/avatar.png": "8d4c12903ab2d1d1c378731f909a2983",
+"assets/assets/images/home/cardOneBackground.png": "bf20034674a617ecde138c634c2b86ab",
+"assets/assets/images/home/cardThreeBackground.png": "50b145b3ff5b504cdb4ae80def4b3bbc",
+"assets/assets/images/home/cardTwoBackground.png": "ba5d9ab946c7b355443fcf8c048dfc98",
 "assets/assets/images/home/information.png": "ee6336e5137e457be2982065b643b4c9",
 "assets/assets/images/home/protection.png": "ca96ea56a138d6ddcd628652b4e86f97",
 "assets/assets/images/logos/logo_deutsche-krebshilfe.png": "3e215d95fe01350a0e618958e5faceab",
@@ -43,9 +46,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f71472c0007fc87400ced646189629dd",
-"/": "f71472c0007fc87400ced646189629dd",
-"main.dart.js": "9c1ecbdb6e37426af2b1ddb56b66f901",
+"index.html": "f0fc1d1153990b37bd0c7a5112142e4b",
+"/": "f0fc1d1153990b37bd0c7a5112142e4b",
+"main.dart.js": "afc33593a8b86f21bc17066c2138f29a",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
