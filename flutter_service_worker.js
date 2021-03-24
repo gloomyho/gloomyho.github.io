@@ -172,8 +172,8 @@ const RESOURCES = {
 "assets/assets/images/information/haut_doppel_dark.png": "3484657fc2db2472ac0ce2b7f6579de3",
 "assets/assets/images/information/haut_doppel_white.png": "c8877945bda19015d8cbfef6e78fb375",
 "assets/assets/images/logos/logo_deutsche-krebshilfe.png": "3e215d95fe01350a0e618958e5faceab",
-"assets/assets/images/logos/logo_hochschule-trier.png": "446021e96d90f200777e89449834771a",
-"assets/assets/images/logos/logo_tabiri.png": "69c0f6034bd3859ac0b8457f49c53851",
+"assets/assets/images/logos/logo_hochschule-trier.png": "51383d0fb598042649df50762c3f8de4",
+"assets/assets/images/logos/logo_tabiri.png": "241aa732c6aed074d06d55cb765d7c7e",
 "assets/assets/images/logos/logo_uni-luebeck.png": "68350c20e90503637a78d86f90e4ec3b",
 "assets/assets/images/prevention/prevention_1.png": "26f370ad26ddebb3b3b1401409c376be",
 "assets/assets/images/prevention/prevention_2.png": "3be53c1340fab65d85ac2d7ea9cfe0aa",
@@ -206,9 +206,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9779de8544b1895631a5af4b7ea1c157",
-"/": "9779de8544b1895631a5af4b7ea1c157",
-"main.dart.js": "746d6da3f29a11ea682b904219103146",
+"index.html": "862a1ba098d5c0c90d19787fb980d94e",
+"/": "862a1ba098d5c0c90d19787fb980d94e",
+"main.dart.js": "b4fcab643308873f74cfffc518114d6f",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
