@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e3c80819e7ff7d3805f8eaf38638c77d",
+  "assets/AssetManifest.json": "246f50878c1c33c9331457ddedcd617c",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
@@ -192,7 +192,7 @@ const RESOURCES = {
 "assets/assets/images/result/stopSign.png": "50de4009678b85347905bbac8959904a",
 "assets/assets/images/result/unknownRisk.png": "feabd6b14cabfb94fd8f314aba1c4552",
 "assets/assets/images/result/upButton.png": "3364bf360686a64c943be4667f73bd43",
-"assets/assets/images/result/veryhighRisk.png": "be71259e7b90dddd1f8f5dd6026455b0",
+"assets/assets/images/result/veryHighRisk.png": "be71259e7b90dddd1f8f5dd6026455b0",
 "assets/assets/images/screening/doctor_1.png": "9f366167649249aa63d13164defe1126",
 "assets/assets/images/screening/krankenhaus.png": "74c286cc2955b25f49f81d201995ad26",
 "assets/assets/images/screening/lichtlupe.png": "79f2fad2185f9a31902d08ef7664a9cb",
@@ -206,9 +206,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fee6645f4189c38a124cc74ce0d19b89",
-"/": "fee6645f4189c38a124cc74ce0d19b89",
-"main.dart.js": "00bc39aef1ecc133e5279db382b61b61",
+"index.html": "29ec966b2cc439fd69fe071af4d2dabd",
+"/": "29ec966b2cc439fd69fe071af4d2dabd",
+"main.dart.js": "f64b27bc52b1028b161ae0e7e2f7cc91",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
