@@ -177,7 +177,7 @@ const RESOURCES = {
 "assets/assets/images/logos/logo_uni-luebeck.png": "68350c20e90503637a78d86f90e4ec3b",
 "assets/assets/images/prevention/prevention_1.png": "26f370ad26ddebb3b3b1401409c376be",
 "assets/assets/images/prevention/prevention_2.png": "3be53c1340fab65d85ac2d7ea9cfe0aa",
-"assets/assets/images/protection/doctor_2.png": "17b1ba28e15a0af19999a6fb8acd8386",
+"assets/assets/images/protection/doctor_2.png": "89f1934461685cd2c39c1bed30b1d59b",
 "assets/assets/images/protection/preventionCardBackground.png": "aefed973aa5b3c21121e79b61c6dce62",
 "assets/assets/images/protection/screeningCardBackground.png": "1c2dbed0311334cc084dbd5f36bcf0ae",
 "assets/assets/images/result/continueButton.png": "f1e2fd245d3f02fe70d277b0ff947142",
@@ -206,9 +206,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "29ec966b2cc439fd69fe071af4d2dabd",
-"/": "29ec966b2cc439fd69fe071af4d2dabd",
-"main.dart.js": "f64b27bc52b1028b161ae0e7e2f7cc91",
+"index.html": "2b50df83c71beb0d7d3badc29b77234a",
+"/": "2b50df83c71beb0d7d3badc29b77234a",
+"main.dart.js": "7e0d85a45a879cd8ac30faf0391845ae",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
